@@ -4,4 +4,4 @@ In this project, we explore the potential of technology to improve workspace man
 We hope this project will spark a conversation about the role of technology in workspace management and inspire other researchers and practitioners to develop innovative solutions that can help organizations create more efficient and productive work environments.
 If you're looking for a way to improve your organization's workspace, I encourage you to read my paper and learn more about Workspace Management  Systems.
 
-![image](https://github.com/sjoshihypen/Nexus-Workspace-System/assets/79572922/fa4873ff-eaae-4850-950f-17c9c1d2863b)
+![Uploading image.png…]()
